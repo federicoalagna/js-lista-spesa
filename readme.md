@@ -6,3 +6,9 @@ Consigli:
 - Ricordiamoci di incrementare il contatore, o comunque di inserire una condizione di uscita, all'interno ciclo while
 
 --creo un array per la lista della spesa
+
+--inizializzo il contatore
+
+--uso il ciclo while per definire la lista
+
+--incremento il contatore
